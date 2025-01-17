@@ -185,7 +185,7 @@ header .menu li a {
   border-bottom: 2px solid #00000033;
   flex-wrap: wrap;
   gap: 65px;
-  max-width: 1180px;
+  max-width: 1030px;
 }
 
 @media (max-width: 500px) {
@@ -393,7 +393,7 @@ header .menu li a {
   border-top: 2px solid #00000033;
   padding: 70px 0;
   column-gap: 190px;
-  max-width: 1180px;
+  max-width: 1030px;
 }
 
 #contacts h2 {
